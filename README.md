@@ -10,4 +10,4 @@ Both datasets that Are used in this paper are publicly available. please refer t
 
 # Usage
 
-In the notebook provided, we provided the code to properly run the experiments mentioned in the paper. The models for IMU and ECG differs by some number of neurons which can be changed in the model section of the notebook. 
+In the notebook, we provided the code to properly run the experiments mentioned in the paper. The models for IMU and ECG differs by some number of neurons which can be changed in the model section of the notebook. 
